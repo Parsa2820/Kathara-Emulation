@@ -7,14 +7,14 @@ This scenario consists of two nodes, a master and a worker. They find each other
 1. Install Kathará Framework. ([Official Website](https://www.kathara.org/))
 2. Clone this repository.
 3. Run the following commands in the terminal.
-```bash
-cd Prototype
-kathara lstart
-```
+    ```bash
+    cd Prototype
+    kathara lstart
+    ```
 4. To stop the emulation, run the following command.
-```bash
-kathara lclean
-```
+    ```bash
+    kathara lclean
+    ```
 
 # Output
 ![output](./Assets/Screenshot%202024-10-14%20at%201.38.28 PM.png)
